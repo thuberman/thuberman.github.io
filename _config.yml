@@ -60,7 +60,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # --- Web Analytics Section --- #
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+google_analytics: "G-Z8T50LY4R4"
 
 
 # Exclude from processing.
