@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "London: The Rise of the East"
-subtitle: "How Housing Prices in East London surged over the last three decades"
+subtitle: "How Housing Prices in East London surged over the last three decades, with Hackney leading the charge"
 date:   2024-02-21 15:24:30 +0000
 thumbnail-img: /assets/images/2_price trend 3yr.gif
 permalink: "london-house-prices-trends"
