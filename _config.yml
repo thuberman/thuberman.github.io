@@ -20,8 +20,8 @@
 
 
 # --- Build settings ---
-theme: beautiful-jekyll-theme
-#remote_theme: daattali/beautiful-jekyll
+#theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
 
