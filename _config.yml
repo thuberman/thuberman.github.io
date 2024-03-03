@@ -56,7 +56,7 @@ navbar-links:
 description: data blog
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thuberman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # --- Web Analytics Section --- #
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
