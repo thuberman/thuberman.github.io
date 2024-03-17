@@ -62,6 +62,7 @@ url: "https://thuberman.github.io" # the base hostname & protocol for your site,
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
 gtag: "G-Z8T50LY4R4"
 
+
 # The keywords to associate with your website, for SEO purposes
 keywords: "map, london, census, geopandas, house price, real estate, lsoa, ward"
 
